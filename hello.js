@@ -1,3 +1,3 @@
 // helloooo!
 
-console.log("I like beer");
+console.log("I like gin");
